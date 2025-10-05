@@ -13,6 +13,6 @@ public class Main {
 
         System.out.println("Cuantos años tienes");
         int edad = scanner.nextInt();
-        System.out.println();
+        System.out.println("Esto es otra prueba ");
     }
 }
