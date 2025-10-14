@@ -1,4 +1,4 @@
-package platzi.servicio;
+package platzi.play.servicio;
 
 public class Prueba {
     String nombre;
